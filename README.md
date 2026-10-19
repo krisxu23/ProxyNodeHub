@@ -220,6 +220,17 @@ main/master 发布 `helloworldz1024/proxynodehub:latest` 和 `sha-<完整提交>
 
 回退时先停止新版，再用已记录的旧镜像和同一组参数启动；本次解析修复没有改变持久化格式，不应无理由覆盖后续收藏/设置。历史备份容器可能已被清理，不要依赖固定旧容器名；源码、镜像和业务数据备份应分别管理。
 
+## 定时发现的订阅
+
+本 fork 通过 `.github/workflows/discover.yml` 每 6 小时自动运行一次无头发现（`tools/Discover`，等同于 Web 版的"重新发现"），在 GitHub 上查找仍在活跃更新的免费节点仓库，验证后把合并去重的结果发布到仓库内的 `output/subscriptions.txt`，同时用 `state/` 保存搜索记忆与特征库，避免重复分析同一来源。
+
+订阅固定链接（随 main 分支更新）：
+
+- https://cdn.jsdelivr.net/gh/krisxu23/ProxyNodeHub@main/output/subscriptions.txt
+- https://raw.githubusercontent.com/krisxu23/ProxyNodeHub/main/output/subscriptions.txt
+
+需要在仓库 Settings → Secrets 里添加 `PROXYNODEHUB_PAT`（GitHub Personal Access Token，用于搜索 API 配额）；不配置也能以匿名模式运行，但匿名搜索配额不足以支撑一轮完整发现。该 Token 只传给发现进程，不用于 git 推送（推送用默认 `GITHUB_TOKEN`），也不会打印到日志。
+
 ## 编译
 
 ```bash

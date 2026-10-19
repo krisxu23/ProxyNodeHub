@@ -1,0 +1,49 @@
+name: Scheduled Discovery
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 避免定时轮和手动轮同时跑，抢同一份 state/。
+concurrency:
+  group: scheduled-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Build discovery tool
+        run: dotnet build tools/Discover --nologo
+
+      # PROXYNODEHUB_PAT 只作为 GitHub 搜索配额凭据传给进程；
+      # 程序不打印它的值，也不用它做 git 操作。
+      - name: Run discovery
+        run: dotnet run --project tools/Discover
+        env:
+          PROXYNODEHUB_PAT: ${{ secrets.PROXYNODEHUB_PAT }}
+
+      - name: Commit published subscriptions
+        run: |
+          set -euo pipefail
+          mkdir -p output state
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/subscriptions.txt state/
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: publish subscriptions $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
