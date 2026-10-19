@@ -83,6 +83,13 @@ internal static class Program
         try
         {
             var settings = store.State.Settings;
+            // 环境变量可覆盖每轮处理的仓库数（state 里存的是旧默认值 10，不改文件也能调大）。
+            var repoCountRaw = Environment.GetEnvironmentVariable("PROXYNODEHUB_REPO_COUNT");
+            if (int.TryParse(repoCountRaw, out var repoCountOverride) && repoCountOverride is >= 1 and <= 100)
+            {
+                settings = settings with { RepoCount = repoCountOverride };
+                Log($"每轮仓库数覆盖为 {repoCountOverride}（环境变量 PROXYNODEHUB_REPO_COUNT）。");
+            }
             await github.ConfigurePublicMirrorAsync(settings.DownloadMirror, CancellationToken.None);
             var exclusions = StateStore.ExplorationExclusions(store.State, started);
 

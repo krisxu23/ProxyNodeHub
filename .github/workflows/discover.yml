@@ -33,6 +33,8 @@ jobs:
         run: dotnet run --project tools/Discover
         env:
           PROXYNODEHUB_PAT: ${{ secrets.PROXYNODEHUB_PAT }}
+          # 每轮处理的仓库数（默认 10 太少，50 能在 15 分钟预算内跑完；上限 100）。
+          PROXYNODEHUB_REPO_COUNT: '50'
 
       - name: Commit published subscriptions
         run: |
