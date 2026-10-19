@@ -1,0 +1,114 @@
+{
+  "rtwo2/FastNodes": {
+    "FullName": "rtwo2/FastNodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub/top.txt",
+      "sub/verified.txt",
+      "sub/ipv6_only.txt"
+    ],
+    "TotalNodes": 1274,
+    "LastAnalyzed": "2026-10-19T08:04:34.1175555+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Pawdroid/Free-servers": {
+    "FullName": "Pawdroid/Free-servers",
+    "Category": 0,
+    "KnownSubPaths": [
+      "sub"
+    ],
+    "TotalNodes": 15,
+    "LastAnalyzed": "2026-10-19T08:04:36.242685+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "eris4444/eris-panel-manager": {
+    "FullName": "eris4444/eris-panel-manager",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-10-19T08:04:36.51543+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "zhuhaiuk/free-nodes": {
+    "FullName": "zhuhaiuk/free-nodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "nodes.txt"
+    ],
+    "TotalNodes": 2,
+    "LastAnalyzed": "2026-10-19T08:04:37.6985394+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Au1rxx/free-vpn-subscriptions": {
+    "FullName": "Au1rxx/free-vpn-subscriptions",
+    "Category": 0,
+    "KnownSubPaths": [
+      "output/v2ray-base64.txt",
+      "output/clash.yaml"
+    ],
+    "TotalNodes": 1726,
+    "LastAnalyzed": "2026-10-19T08:04:38.1385765+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "scar8969/subforge": {
+    "FullName": "scar8969/subforge",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-10-19T08:04:39.1355181+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  },
+  "tglaoshiji/nodeshare": {
+    "FullName": "tglaoshiji/nodeshare",
+    "Category": 0,
+    "KnownSubPaths": [
+      "2026/v2ray.txt",
+      "2025/7/v2ray.txt",
+      "2025/8/clash.yaml"
+    ],
+    "TotalNodes": 169,
+    "LastAnalyzed": "2026-10-19T08:04:40.131315+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "Vanic24/VPN": {
+    "FullName": "Vanic24/VPN",
+    "Category": 0,
+    "KnownSubPaths": [
+      "MIX",
+      "Sub3",
+      "8EB",
+      "9PB"
+    ],
+    "TotalNodes": 270,
+    "LastAnalyzed": "2026-10-19T08:04:41.4910693+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "gslege/CloudflareIP": {
+    "FullName": "gslege/CloudflareIP",
+    "Category": 0,
+    "KnownSubPaths": [
+      "Vless.txt"
+    ],
+    "TotalNodes": 20,
+    "LastAnalyzed": "2026-10-19T08:04:42.376378+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
+  },
+  "lerjtl/Testfree": {
+    "FullName": "lerjtl/Testfree",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-10-19T08:04:43.0694558+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
+  }
+}
