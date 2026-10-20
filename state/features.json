@@ -7,9 +7,9 @@
       "sub/verified.txt",
       "sub/ipv6_only.txt"
     ],
-    "TotalNodes": 1998,
-    "LastAnalyzed": "2026-10-20T04:19:54.726843+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 4469,
+    "LastAnalyzed": "2026-10-20T11:15:16.6542504+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "Pawdroid/Free-servers": {
@@ -18,9 +18,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 18,
-    "LastAnalyzed": "2026-10-20T04:19:51.7357361+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 11,
+    "LastAnalyzed": "2026-10-20T11:15:15.704498+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "eris4444/eris-panel-manager": {
@@ -38,9 +38,9 @@
     "KnownSubPaths": [
       "nodes.txt"
     ],
-    "TotalNodes": 3,
-    "LastAnalyzed": "2026-10-20T04:19:58.0481666+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 2,
+    "LastAnalyzed": "2026-10-20T11:15:21.0031899+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "Au1rxx/free-vpn-subscriptions": {
@@ -50,9 +50,9 @@
       "output/v2ray-base64.txt",
       "output/clash.yaml"
     ],
-    "TotalNodes": 1424,
-    "LastAnalyzed": "2026-10-20T04:19:54.2957235+00:00",
-    "AnalysisCount": 4,
+    "TotalNodes": 1192,
+    "LastAnalyzed": "2026-10-20T11:15:15.0882911+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "scar8969/subforge": {
@@ -87,8 +87,8 @@
       "9PB"
     ],
     "TotalNodes": 345,
-    "LastAnalyzed": "2026-10-20T04:19:52.4943512+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-10-20T11:15:18.5082033+00:00",
+    "AnalysisCount": 5,
     "IsReliable": true
   },
   "gslege/CloudflareIP": {
@@ -98,8 +98,8 @@
       "Vless.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-10-20T04:19:52.0664049+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:17.3249053+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "lerjtl/Testfree": {
@@ -107,8 +107,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:10.7162393+00:00",
-    "AnalysisCount": 4,
+    "LastAnalyzed": "2026-10-20T11:15:25.1175838+00:00",
+    "AnalysisCount": 5,
     "IsReliable": false
   },
   "twj0/subseek": {
@@ -122,8 +122,8 @@
       "data/github/2025/12/12/sub_github.txt"
     ],
     "TotalNodes": 15350,
-    "LastAnalyzed": "2026-10-19T08:13:30.6886907+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-10-20T11:15:25.7034824+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "wenxig/free-nodes-sub": {
@@ -134,8 +134,8 @@
       "data/sub.yaml"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-10-20T04:19:59.2242072+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:24.7725102+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "nodesradar/nodesradar-es": {
@@ -143,8 +143,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:12.2004713+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:27.1693691+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -152,8 +152,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:13.1941575+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:27.8040144+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -161,8 +161,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:09.7316898+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:28.4104219+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -170,8 +170,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:10.3760189+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:29.0323457+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ur": {
@@ -179,8 +179,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:11.1304512+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:29.6075809+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -188,8 +188,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:11.9453814+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:30.1824925+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-tr": {
@@ -197,8 +197,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:12.5791961+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:30.7549389+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ru": {
@@ -206,8 +206,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-19T18:36:13.3069891+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:31.3162125+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "nodesradar/nodesradar-fa": {
@@ -224,8 +224,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:23.1322747+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:40.4664741+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "nodesradar/nodesradar-zh": {
@@ -243,9 +243,9 @@
     "KnownSubPaths": [
       "mixed_iran.txt"
     ],
-    "TotalNodes": 430,
-    "LastAnalyzed": "2026-10-20T04:20:07.2285729+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 421,
+    "LastAnalyzed": "2026-10-20T11:15:18.1327341+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "LeilaoMi/AutoMergePublicNodes-Optimized": {
@@ -292,9 +292,9 @@
       "sub/v2ray.txt",
       "sub/base64.txt"
     ],
-    "TotalNodes": 1745,
-    "LastAnalyzed": "2026-10-20T04:20:23.9394515+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 1763,
+    "LastAnalyzed": "2026-10-20T11:15:41.0852999+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -307,9 +307,9 @@
       "list.meta.yml",
       "snippets/nodes.yml"
     ],
-    "TotalNodes": 442,
-    "LastAnalyzed": "2026-10-20T04:20:07.599273+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 367,
+    "LastAnalyzed": "2026-10-20T11:15:20.2667178+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "xyfqzy/free-nodes": {
@@ -331,9 +331,9 @@
       "sub/sub.txt",
       "sub/sub_plain.txt"
     ],
-    "TotalNodes": 334,
-    "LastAnalyzed": "2026-10-20T04:20:15.4486908+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 304,
+    "LastAnalyzed": "2026-10-20T11:15:31.9714596+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "crossxx-labs/free-proxy": {
@@ -341,8 +341,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:16.9821431+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:38.620316+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "Thordata/awesome-free-proxy-list": {
@@ -355,9 +355,9 @@
       "proxies/clash/socks5.yaml",
       "proxies/clash/stable.yaml"
     ],
-    "TotalNodes": 500,
-    "LastAnalyzed": "2026-10-20T04:20:21.2170169+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 388,
+    "LastAnalyzed": "2026-10-20T11:15:39.6431316+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "Alirewa/V2ray-Configs": {
@@ -369,8 +369,8 @@
       "sub3.txt"
     ],
     "TotalNodes": 100,
-    "LastAnalyzed": "2026-10-20T04:20:20.7491406+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:38.2055756+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "sunmiao4458/free-proxy-airport": {
@@ -380,9 +380,9 @@
       "docs/clash.yaml",
       "output/clash.yaml"
     ],
-    "TotalNodes": 32,
-    "LastAnalyzed": "2026-10-20T04:20:20.2421678+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 14,
+    "LastAnalyzed": "2026-10-20T11:15:39.2582388+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "nostalume/FreeNodes": {
@@ -395,9 +395,9 @@
       "nodes/yudou.yaml",
       "nodes/kooker.yaml"
     ],
-    "TotalNodes": 152,
-    "LastAnalyzed": "2026-10-20T04:20:28.6737673+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 150,
+    "LastAnalyzed": "2026-10-20T11:15:41.5723634+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "X5Coder/IPNET": {
@@ -405,8 +405,8 @@
     "Category": 1,
     "KnownSubPaths": [],
     "TotalNodes": 1,
-    "LastAnalyzed": "2026-10-20T04:20:27.7324523+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:42.4780093+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy": {
@@ -416,9 +416,9 @@
       "combine/v2ray.config.txt",
       "combine/clash.config.yaml"
     ],
-    "TotalNodes": 2256,
-    "LastAnalyzed": "2026-10-19T18:36:27.8288947+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 2253,
+    "LastAnalyzed": "2026-10-20T11:15:43.2316973+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "freenodess/freenodess": {
@@ -432,8 +432,8 @@
       "output/v2ray-base64.txt"
     ],
     "TotalNodes": 1424,
-    "LastAnalyzed": "2026-10-20T04:20:13.9569959+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:43.9287075+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "worldmarketing02-design/proxy-master-list": {
@@ -443,8 +443,8 @@
       "sub.txt"
     ],
     "TotalNodes": 1217,
-    "LastAnalyzed": "2026-10-20T04:20:14.9288752+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:44.7173656+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "tammader/freesub": {
@@ -457,9 +457,9 @@
       "output/by-country/clash-AE.yaml",
       "output/by-country/clash-AM.yaml"
     ],
-    "TotalNodes": 849,
-    "LastAnalyzed": "2026-10-20T04:20:15.8203855+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 655,
+    "LastAnalyzed": "2026-10-20T11:15:45.0424346+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "SnapdragonLee/SystemProxy": {
@@ -470,8 +470,8 @@
       "dist/clash_config_extra_US.yaml"
     ],
     "TotalNodes": 197,
-    "LastAnalyzed": "2026-10-20T04:20:16.5156836+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:45.7907008+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "F0rc3Run/F0rc3Run": {
@@ -484,9 +484,9 @@
       "splitted-by-protocol/vless.txt",
       "splitted-by-protocol/vmess.txt"
     ],
-    "TotalNodes": 484,
-    "LastAnalyzed": "2026-10-20T04:20:17.8561049+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 420,
+    "LastAnalyzed": "2026-10-20T11:15:36.664605+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "owenlee3/my-nodes": {
@@ -497,8 +497,8 @@
       "output/shadowrocket.txt"
     ],
     "TotalNodes": 150,
-    "LastAnalyzed": "2026-10-20T04:20:19.0072869+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-10-20T11:15:36.2806368+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "hamzawih0/zorVPN": {
@@ -508,9 +508,9 @@
       "clash.yaml",
       "ZorVPN-nodes.txt"
     ],
-    "TotalNodes": 104,
-    "LastAnalyzed": "2026-10-20T04:20:19.4531335+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 93,
+    "LastAnalyzed": "2026-10-20T11:15:37.7319124+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "mahdyaralipor/v2all": {
@@ -519,9 +519,9 @@
     "KnownSubPaths": [
       "real_sub.txt"
     ],
-    "TotalNodes": 50,
-    "LastAnalyzed": "2026-10-20T04:20:19.8906123+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 35,
+    "LastAnalyzed": "2026-10-20T11:15:37.3258365+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "junjun266/FreeProxyGo": {
@@ -541,9 +541,9 @@
       "clash-hot-countries-en.yaml",
       "clash-hot-countries-zh.yaml"
     ],
-    "TotalNodes": 72,
-    "LastAnalyzed": "2026-10-20T04:20:22.0509018+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 42,
+    "LastAnalyzed": "2026-10-20T11:15:32.4114067+00:00",
+    "AnalysisCount": 4,
     "IsReliable": true
   },
   "morpheusadam/v2ray-config": {
@@ -561,9 +561,9 @@
     "FullName": "asgharkapk/Sub-Config-Extractor",
     "Category": 1,
     "KnownSubPaths": [],
-    "TotalNodes": 17446,
-    "LastAnalyzed": "2026-10-20T04:20:24.5650926+00:00",
-    "AnalysisCount": 3,
+    "TotalNodes": 17490,
+    "LastAnalyzed": "2026-10-20T11:15:32.9276646+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "zhangdunlong/free-v2ray-nodes": {
@@ -586,8 +586,8 @@
       "result/clash.yaml"
     ],
     "TotalNodes": 500,
-    "LastAnalyzed": "2026-10-20T04:19:56.6683669+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:16.0061984+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "mid8568/My-V2Ray-Nodes-Clean": {
@@ -596,9 +596,9 @@
     "KnownSubPaths": [
       "v2ray-base64.txt"
     ],
-    "TotalNodes": 264,
-    "LastAnalyzed": "2026-10-20T04:19:57.6492374+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 263,
+    "LastAnalyzed": "2026-10-20T11:15:24.1570232+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "ssnn20012001-bot/v2ray-sub": {
@@ -607,9 +607,9 @@
     "KnownSubPaths": [
       "nodes_base64.txt"
     ],
-    "TotalNodes": 4198,
-    "LastAnalyzed": "2026-10-20T04:19:57.1960272+00:00",
-    "AnalysisCount": 2,
+    "TotalNodes": 4026,
+    "LastAnalyzed": "2026-10-20T11:15:19.7626476+00:00",
+    "AnalysisCount": 3,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -617,8 +617,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:00.4417254+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:21.8367423+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "free-proxy-nodes/free-nodes": {
@@ -626,8 +626,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:01.3230314+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:22.4058179+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "crashgfw/free-airport-nodes": {
@@ -635,8 +635,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-10-20T04:20:02.2274111+00:00",
-    "AnalysisCount": 2,
+    "LastAnalyzed": "2026-10-20T11:15:22.9826742+00:00",
+    "AnalysisCount": 3,
     "IsReliable": false
   },
   "ninjastrikers/nexus-nodes": {
@@ -716,8 +716,8 @@
       "source/clash-meta-2.yaml"
     ],
     "TotalNodes": 62,
-    "LastAnalyzed": "2026-10-20T04:19:50.9685686+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-10-20T11:15:17.6038152+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "awesome-vpn/awesome-vpn": {
@@ -738,8 +738,8 @@
       "nodes.txt"
     ],
     "TotalNodes": 50,
-    "LastAnalyzed": "2026-10-20T04:19:59.7576284+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-10-20T11:15:24.4699288+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "TG-NAV/nodeshare": {
@@ -778,8 +778,8 @@
       "vip.txt"
     ],
     "TotalNodes": 41,
-    "LastAnalyzed": "2026-10-20T04:20:09.1070206+00:00",
-    "AnalysisCount": 1,
+    "LastAnalyzed": "2026-10-20T11:15:21.3265608+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "LalatinaHub/Mineral": {
@@ -788,9 +788,9 @@
     "KnownSubPaths": [
       "result/nodes"
     ],
-    "TotalNodes": 17688,
-    "LastAnalyzed": "2026-10-20T04:20:09.7683433+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 17737,
+    "LastAnalyzed": "2026-10-20T11:15:23.5549297+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "skka3134/Free-servers": {
@@ -801,5 +801,19 @@
     "LastAnalyzed": "2026-10-20T04:20:11.4092158+00:00",
     "AnalysisCount": 1,
     "IsReliable": false
+  },
+  "Barabama/FreeNodes": {
+    "FullName": "Barabama/FreeNodes",
+    "Category": 0,
+    "KnownSubPaths": [
+      "nodes/cfmem.txt",
+      "nodes/yudou.txt",
+      "nodes/cfmem.yaml",
+      "nodes/yudou.yaml"
+    ],
+    "TotalNodes": 458,
+    "LastAnalyzed": "2026-10-20T11:15:19.0277751+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": true
   }
 }
